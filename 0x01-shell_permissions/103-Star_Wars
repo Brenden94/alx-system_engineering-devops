@@ -1,2 +1,2 @@
 #!/bin/bash
-makdir -p welxome/to/holberton
+telnet towel.blinkenlights.nl
