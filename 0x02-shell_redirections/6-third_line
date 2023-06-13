@@ -1,2 +1,2 @@
 #!/bin/bash
- head FNR==3 iacta /etc/passwd
+head FNR==3 iacta /etc/passwd
